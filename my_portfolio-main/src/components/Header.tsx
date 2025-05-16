@@ -51,7 +51,7 @@ const Header = () => {
             </div>
 
             <a
-               href="/my_portfolio/curriculum_vitae.pdf" 
+               href="/my_portfolio/ossama.pdf" 
               download
               className="inline-flex items-center px-6 py-3 bg-white text-blue-700 rounded-full font-medium hover:bg-blue-50 transition-colors shadow-lg"
             >
