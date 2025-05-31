@@ -36,10 +36,6 @@ const certifications = [
   {
     name: "Certified Ethical Hacker (CEH)",
     provider: "EC-Council"
-  },
-  {
-    name: "CompTIA Security+",
-    provider: "CompTIA"
   }, {
     name: "Level 12",
     provider: "Tryhackme"
