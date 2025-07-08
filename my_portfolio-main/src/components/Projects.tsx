@@ -36,7 +36,7 @@ const projects: Project[] = [
   {
     id: 3,
     title: "Bien Vieillir IDF",
-    role: "Technicien informatique (alternance)",
+    role: "Ingénierie Systèmes & Sécurité (alternance)",
     period: "Juillet 2024 – Septembre 2025",
     description: "Support informatique, diagnostic matériel, installation de postes, assistance technique et sécurité réseau au sein d’une organisation spécialisée dans les services aux personnes âgées.",
     technologies: ["Windows", "Support IT", "Diagnostic", "Firewall"],
