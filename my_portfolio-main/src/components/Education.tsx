@@ -11,10 +11,10 @@ interface Education {
 const educations: Education[] = [
   {
     id: 1,
-    degree: "Master Cybersécurité",
+    degree: "Master Cyber et Réseaux",
     institution: "Université Catholique de Lille",
     period: "2023 - 2025",
-    description: "Formation avancée en cybersécurité, incluant des modules sur la sécurité des réseaux, le pentesting, la gestion de risque, et le développement sécurisé."
+    description: "Formation avancée en cyber et réseaux, incluant des modules sur la sécurité des réseaux, le pentesting, la gestion de risque, et l'administration réseau."
   },
   {
     id: 2,
