@@ -22,7 +22,7 @@ const Header = () => {
           <div className="text-center md:text-left max-w-xl">
             <h1 className="text-4xl md:text-5xl font-bold mb-2">Ossama Belmasrour</h1>
             <h2 className="text-xl md:text-2xl font-medium text-blue-100 mb-6">
-            Ingénieur Cybersécurité et Co-fondateur de ShadowTrace outil de pentesting
+            Ingénieur systèmes & réseaux et Co-fondateur de ShadowTrace outil de pentesting
             </h2>
 
             <div className="flex justify-center md:justify-start space-x-4 mb-8">
