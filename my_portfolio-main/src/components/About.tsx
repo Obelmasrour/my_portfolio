@@ -4,8 +4,8 @@ const About = () => {
   const passions = [
     {
       icon: <Shield size={32} className="text-blue-600" />,
-      title: "Cybersécurité",
-      description: "Passionné par la protection des systèmes et l'identification des vulnérabilités."
+      title: "Réseau et sécurité",
+      description: "Passionné par l'adminisration et la protection des systèmes et l'identification des vulnérabilités."
     },
     {
       icon: <LaptopCode size={32} className="text-blue-600" />,
@@ -15,13 +15,8 @@ const About = () => {
     {
       icon: <Video size={32} className="text-blue-600" />,
       title: "Création de contenu",
-      description: "Production de contenu éducatif dans le domaine de la sécurité informatique."
+      description: "Production des documentaires et de contenu éducatif."
     },
-    {
-      icon: <Drone size={32} className="text-blue-600" />,
-      title: "Pilotage de drone",
-      description: "Exploration aérienne et captures visuelles d'environnements variés."
-    }
   ];
 
   return (
@@ -34,12 +29,14 @@ const About = () => {
         
         <div className="max-w-3xl mx-auto">
           <p className="text-lg text-gray-700 leading-relaxed mb-8">
-            Je suis ingénieur en cybersécurité , spécialisé dans l’analyse des vulnérabilités, les tests d’intrusion et la gestion de la sécurité réseau.          </p>
+            Je suis ingénieur systèmes & réseaux, spécialisé dans l’administration, le support technique N2/N3 et l’optimisation des infrastructures informatiques. 
+            J’interviens sur le déploiement, la supervision et le maintien en conditions opérationnelles des environnements serveurs, réseaux et solutions cloud.
           <p className="text-lg text-gray-700 leading-relaxed mb-12">
-          Je suis Co-fondateur de ShadowTrace, un outil de pentesting automatisé conçu pour détecter rapidement les vulnérabilités au sein des systèmes informatiques.<br />
-          Ma vision : rendre la cybersécurité proactive, accessible et efficace pour tous, 
-          j’aime créer des solutions concrètes, expérimenter de nouvelles approches et apprendre continuellement pour rester à la pointe. 
+          Je suis Co-fondateur de ShadowTrace, un outil de pentesting automatisé conçu pour détecter rapidement les vulnérabilités au sein des systèmes informatiques.<br /> 
           </p>
+            <p className="text-lg text-gray-700 leading-relaxed mb-12">
+Ce qui me motive : proposer un support fiable, résoudre des problématiques complexes, améliorer la performance des systèmes et accompagner les utilisateurs comme les équipes techniques. 
+              J’aime tester de nouvelles approches, automatiser lorsque c’est possible et rester en veille constante pour progresser.          </p>
         </div>
         
         <h3 className="text-2xl font-semibold text-center mb-8">Mes passions</h3>
