@@ -1,15 +1,15 @@
 import React from 'react';
 
 const skills = {
-  cybersecurity: [
-    { name: "Pentesting", level: 90 },
-    { name: "Sécurité réseau", level: 85 },
-    { name: "OWASP ZAP", level: 80 },
-    { name: "Kali Linux", level: 90 }
+  Réseaux_sécurités: [
+    { name: "Windows Server", level: 90 },
+    { name: "Linux Ubuntu/CentOS", level: 75 },
+    { name: "Automatisation & Scripting", level: 80 },
+    { name: "Virtualisation", level: 90 }
   ],
   development: [
     { name: "Python", level: 85 },
-    { name: "JavaScript", level: 80 },
+    { name: "Powershell", level: 80 },
     { name: "CSS", level: 75 },
     { name: "PHP", level: 70 },
     { name: "SQL", level: 80 }
